@@ -1,7 +1,3 @@
-# HW1
-# REMINDER: The work in this assignment must be your own original work and must be completed alone.
-
-
 def rectangle(perimeter,area):
     """
         >>> rectangle(14, 10)
