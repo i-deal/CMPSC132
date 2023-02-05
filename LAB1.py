@@ -1,6 +1,3 @@
-# LAB1
-# REMINDER: The work in this assignment must be your own original work and must be completed alone
-
 def intersection(d1, d2):
     """
         >>> intersection({'a':5, 'b':7, 'd':5},{'d':5, 'a':5, 'b':9, 'c':12}) 
